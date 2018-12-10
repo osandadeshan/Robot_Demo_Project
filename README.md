@@ -10,7 +10,7 @@
 ***pip install --upgrade robotframework-seleniumlibrary***
 7. Download [RED](https://github.com/nokia/RED/releases/download/0.8.7/RED_0.8.7.20180807062944-win32.win32.x86_64.zip "RED").
 8. Download [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads "chromedriver").
-9. Copy it to the **Scripts** folder inside the **Python** installation directory.\
+9. Copy and paste the **chromedriver** to the **Scripts** folder inside the **Python** installation directory.\
 **\Python\Python37-32\Scripts**
 
 
