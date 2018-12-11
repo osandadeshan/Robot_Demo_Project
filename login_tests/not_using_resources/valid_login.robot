@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation     Robot Demo using Selenium2Library.
-Library           Selenium2Library
+Library           SeleniumLibrary
 
 
 

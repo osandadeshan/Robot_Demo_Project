@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <projectConfiguration>
     <configVersion>2</configVersion>
+    <robotExecEnvironment path="C:/Program Files (x86)/Python37-32" interpreter="Python"/>
     <relativeTo>WORKSPACE</relativeTo>
-    <referencedLibrary type="PYTHON" name="Selenium2Library" path="C:/Users/unimaos/AppData/Local/Programs/Python/Python37-32/Lib/site-packages"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Program Files (x86)/Python37-32/Lib/site-packages"/>
     <pythonpath/>
     <classpath/>
     <excludedForValidation/>
