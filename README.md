@@ -23,17 +23,15 @@ for the standalone JAR distribution that is on Maven central.
 
 Robot Framework development is sponsored by [Robot Framework Foundation](http://robotframework.org/foundation).
 
-.. _GitHub: https://github.com/robotframework/robotframework
-.. _PyPI: https://pypi.python.org/pypi/robotframework
-.. _Maven central: http://search.maven.org/#search%7Cga%7C1%7Ca%3Arobotframework
+[GitHub](https://github.com/robotframework/robotframework)
+[PyPI](https://pypi.python.org/pypi/robotframework)
+[Maven central](http://search.maven.org/#search%7Cga%7C1%7Ca%3Arobotframework)
 
-.. image:: https://img.shields.io/pypi/v/robotframework.svg?label=version
-   :target: https://pypi.python.org/pypi/robotframework
-   :alt: Latest version
+[image](https://img.shields.io/pypi/v/robotframework.svg?label=version)
+[target](https://pypi.python.org/pypi/robotframework)
 
-.. image:: https://img.shields.io/pypi/l/robotframework.svg
-   :target: http://www.apache.org/licenses/LICENSE-2.0.html
-   :alt: License
+[image](https://img.shields.io/pypi/l/robotframework.svg)
+[target](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 Installation
 ------------
@@ -59,9 +57,9 @@ Below is a simple example test case for testing login to some system.
 You can find more examples with links to related demo projects from
 http://robotframework.org.
 
-First, run the demo application
-1. Go to **demoapp** folder inside the project.
-2. Run server.py::
+First, go to **demoapp** folder inside the project.
+
+Then run server.py to run the demo application::
 
     python server.py***
 
@@ -93,27 +91,21 @@ line usage. For a complete reference manual see `Robot Framework User Guide`_.
 Documentation
 -------------
 
-- `Robot Framework User Guide
-  <http://robotframework.org/robotframework/#user-guide>`_
-- `Standard libraries
-  <http://robotframework.org/robotframework/#standard-libraries>`_
-- `Built-in tools
-  <http://robotframework.org/robotframework/#built-in-tools>`_
-- `API documentation
-  <http://robot-framework.readthedocs.org>`_
-- `General documentation and demos
-  <http://robotframework.org/#documentation>`_
+[Robot Framework User Guide](http://robotframework.org/robotframework/#user-guide)
+[Standard libraries](http://robotframework.org/robotframework/#standard-libraries)
+[Built-in tools](http://robotframework.org/robotframework/#built-in-tools)
+[API documentation](http://robot-framework.readthedocs.org)
+[General documentation and demos](http://robotframework.org/#documentation)
 
 Support and contact
 -------------------
 
-- `robotframework-users
-  <https://groups.google.com/group/robotframework-users/>`_ mailing list
-- `Slack <https://robotframework-slack-invite.herokuapp.com>`_ community
-- `#robotframework <http://webchat.freenode.net/?channels=robotframework&prompt=1>`_
-  IRC channel on freenode
-- `@robotframework <https://twitter.com/robotframework>`_ on Twitter
-- `Other forums <http://robotframework.org/#support>`_
+[robotframework-users](https://groups.google.com/group/robotframework-users/)
+[mailing list] [Slack](https://robotframework-slack-invite.herokuapp.com) 
+[community robotframework](http://webchat.freenode.net/?channels=robotframework&prompt=1)
+[IRC channel on freenode] @robotframework
+[Twitter](https://twitter.com/robotframework)
+[Other forums](http://robotframework.org/#support)
 
 License
 -------
