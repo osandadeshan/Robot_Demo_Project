@@ -1,8 +1,8 @@
-## Robot Framework
+# Robot Framework
 
 <br>
 
-### Introduction
+## Introduction
 
 [Robot Framework](http://robotframework.org) is a generic open source
 automation framework for acceptance testing, acceptance test driven
@@ -37,8 +37,7 @@ Robot Framework development is sponsored by [Robot Framework Foundation](http://
 
 <br>
 
-Installation
-------------
+## Installation
 
 1. Download and Install [Python 3](https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe "Python 3").
 2. Add the Python installation directory to the **PATH** variable.
@@ -56,8 +55,7 @@ Installation
 
 <br>
 
-Example
--------
+## Example
 
 Below is a simple example test case for testing login to some system.
 You can find more examples with links to related demo projects from
@@ -75,8 +73,7 @@ Then execute the robot test::
 
 <br>
 
-Usage
------
+## Usage
 
 Starting from Robot Framework 3.0, tests are executed from the command line
 using the ``robot`` script or by executing the ``robot`` module directly
@@ -98,8 +95,7 @@ line usage. For a complete reference manual see `Robot Framework User Guide`_.
 
 <br>
 
-Documentation
--------------
+## Documentation
 
 [Robot Framework User Guide](http://robotframework.org/robotframework/#user-guide)
 [Standard libraries](http://robotframework.org/robotframework/#standard-libraries)
@@ -109,8 +105,7 @@ Documentation
 
 <br>
 
-Support and contact
--------------------
+## Support and contact
 
 [robotframework-users](https://groups.google.com/group/robotframework-users/)
 [mailing list] [Slack](https://robotframework-slack-invite.herokuapp.com) 
@@ -121,8 +116,7 @@ Support and contact
 
 <br>
 
-License
--------
+## License
 
 Robot Framework is open source software provided under the `Apache License
 2.0`__. Robot Framework documentation and other similar content use the
