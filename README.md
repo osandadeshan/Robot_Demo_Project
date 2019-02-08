@@ -63,11 +63,11 @@ http://robotframework.org.
 
 First, go to **demoapp** folder inside the project.
 
-Then run server.py to run the demo application::
+Then run server.py to run the demo application
 
     python server.py***
 
-Then execute the robot test::
+Then execute the robot test
 
     robot test/loginTest/using_resources/valid_login.robot
 
@@ -80,48 +80,47 @@ using the ``robot`` script or by executing the ``robot`` module directly
 like ``python -m robot`` or ``jython -m robot``.
 
 The basic usage is giving a path to a test (or task) file or directory as an
-argument with possible command line options before the path::
+argument with possible command line options before the path
 
     robot tests.robot
     robot --variable HOST:example.com --outputdir results path/to/tests/
 
 Additionally there is ``rebot`` tool for combining results and otherwise
-post-processing outputs::
+post-processing outputs
 
     rebot --name Example output1.xml output2.xml
 
 Run ``robot --help`` and ``rebot --help`` for more information about the command
-line usage. For a complete reference manual see `Robot Framework User Guide`_.
+line usage. For a complete reference manual see `Robot Framework User Guide`.
 
 <br>
 
 ## Documentation
 
-[Robot Framework User Guide](http://robotframework.org/robotframework/#user-guide)
-[Standard libraries](http://robotframework.org/robotframework/#standard-libraries)
-[Built-in tools](http://robotframework.org/robotframework/#built-in-tools)
-[API documentation](http://robot-framework.readthedocs.org)
+[Robot Framework User Guide](http://robotframework.org/robotframework/#user-guide) \
+[Standard libraries](http://robotframework.org/robotframework/#standard-libraries) \
+[Built-in tools](http://robotframework.org/robotframework/#built-in-tools) \
+[API documentation](http://robot-framework.readthedocs.org) \
 [General documentation and demos](http://robotframework.org/#documentation)
 
 <br>
 
 ## Support and contact
 
-[robotframework-users](https://groups.google.com/group/robotframework-users/)
-[mailing list] [Slack](https://robotframework-slack-invite.herokuapp.com) 
-[community robotframework](http://webchat.freenode.net/?channels=robotframework&prompt=1)
-[IRC channel on freenode] @robotframework
-[Twitter](https://twitter.com/robotframework)
+[robotframework-users](https://groups.google.com/group/robotframework-users/) \
+[mailing list] [Slack](https://robotframework-slack-invite.herokuapp.com) \ 
+[community robotframework](http://webchat.freenode.net/?channels=robotframework&prompt=1) \
+[IRC channel on freenode] @robotframework \
+[Twitter](https://twitter.com/robotframework) \
 [Other forums](http://robotframework.org/#support)
 
 <br>
 
 ## License
 
-Robot Framework is open source software provided under the `Apache License
-2.0`__. Robot Framework documentation and other similar content use the
-`Creative Commons Attribution 3.0 Unported`__ license. Most libraries and tools
-in the ecosystem are also open source, but they may use different licenses.
+Robot Framework is open source software provided under the `Apache License 2.0`.  \
+Robot Framework documentation and other similar content use the `Creative Commons Attribution 3.0 Unported` license.  \
+Most libraries and tools in the ecosystem are also open source, but they may use different licenses.
 
-__ http://apache.org/licenses/LICENSE-2.0
-__ http://creativecommons.org/licenses/by/3.0
+http://apache.org/licenses/LICENSE-2.0
+http://creativecommons.org/licenses/by/3.0
