@@ -14,9 +14,9 @@ text syntax and it can be extended easily with libraries implemented using
 Python or Java.
 
 Robot Framework is operating system and application independent. The core
-framework is implemented using `Python <http://python.org>`_, supports both
-Python 2 and Python 3, and runs also on `Jython <http://jython.org>`_ (JVM),
-`IronPython <http://ironpython.net>`_ (.NET) and `PyPy <http://pypy.org>`_.
+framework is implemented using [Python](http://python.org), supports both
+Python 2 and Python 3, and runs also on [Jython](http://jython.org) (JVM),
+[IronPython](http://ironpython.net) (.NET) and [PyPy](http://pypy.org).
 The framework has a rich ecosystem around it consisting of various generic
 libraries and tools that are developed as separate projects. For more
 information about Robot Framework and the ecosystem, see
