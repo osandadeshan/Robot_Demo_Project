@@ -51,7 +51,8 @@ Robot Framework development is sponsored by [Robot Framework Foundation](http://
 7. Download [RED](https://github.com/nokia/RED/releases/download/0.8.7/RED_0.8.7.20180807062944-win32.win32.x86_64.zip "RED").
 8. Download [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads "chromedriver").
 9. Copy and paste the **chromedriver** to the **Scripts** folder inside the **Python** installation directory.
-**\Python\Python37-32\Scripts**
+
+   **\Python\Python37-32\Scripts**
 
 <br>
 
@@ -98,9 +99,13 @@ line usage. For a complete reference manual see `Robot Framework User Guide`.
 ## Documentation
 
 [Robot Framework User Guide](http://robotframework.org/robotframework/#user-guide) 
+
 [Standard libraries](http://robotframework.org/robotframework/#standard-libraries) 
+
 [Built-in tools](http://robotframework.org/robotframework/#built-in-tools) 
+
 [API documentation](http://robot-framework.readthedocs.org) 
+
 [General documentation and demos](http://robotframework.org/#documentation)
 
 <br>
@@ -108,9 +113,13 @@ line usage. For a complete reference manual see `Robot Framework User Guide`.
 ## Support and contact
 
 [robotframework-users](https://groups.google.com/group/robotframework-users/)
+
 [Slack](https://robotframework-slack-invite.herokuapp.com) 
+
 [community robotframework](http://webchat.freenode.net/?channels=robotframework&prompt=1)
+
 [Twitter](https://twitter.com/robotframework) 
+
 [Other forums](http://robotframework.org/#support)
 
 <br>
