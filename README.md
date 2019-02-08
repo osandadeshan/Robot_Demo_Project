@@ -26,7 +26,9 @@ for the standalone JAR distribution that is on Maven central.
 Robot Framework development is sponsored by [Robot Framework Foundation](http://robotframework.org/foundation).
 
 [GitHub](https://github.com/robotframework/robotframework)
+
 [PyPI](https://pypi.python.org/pypi/robotframework)
+
 [Maven central](http://search.maven.org/#search%7Cga%7C1%7Ca%3Arobotframework)
 
 <br>
