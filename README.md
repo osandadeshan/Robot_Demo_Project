@@ -7,7 +7,7 @@ Robot Framework
 Introduction
 ------------
 
-`Robot Framework <http://robotframework.org>`_ is a generic open source
+[Robot Framework](http://robotframework.org) is a generic open source
 automation framework for acceptance testing, acceptance test driven
 development (ATDD), and robotic process automation (RPA). It has simple plain
 text syntax and it can be extended easily with libraries implemented using
