@@ -1,5 +1,7 @@
 ## Robot Framework
 
+<br>
+
 ### Introduction
 
 [Robot Framework](http://robotframework.org) is a generic open source
@@ -33,6 +35,8 @@ Robot Framework development is sponsored by [Robot Framework Foundation](http://
 [image](https://img.shields.io/pypi/l/robotframework.svg)
 [target](http://www.apache.org/licenses/LICENSE-2.0.html)
 
+<br>
+
 Installation
 ------------
 
@@ -50,6 +54,8 @@ Installation
 9. Copy and paste the **chromedriver** to the **Scripts** folder inside the **Python** installation directory.\
 **\Python\Python37-32\Scripts**
 
+<br>
+
 Example
 -------
 
@@ -66,6 +72,8 @@ Then run server.py to run the demo application::
 Then execute the robot test::
 
     robot test/loginTest/using_resources/valid_login.robot
+
+<br>
 
 Usage
 -----
@@ -88,6 +96,8 @@ post-processing outputs::
 Run ``robot --help`` and ``rebot --help`` for more information about the command
 line usage. For a complete reference manual see `Robot Framework User Guide`_.
 
+<br>
+
 Documentation
 -------------
 
@@ -96,6 +106,8 @@ Documentation
 [Built-in tools](http://robotframework.org/robotframework/#built-in-tools)
 [API documentation](http://robot-framework.readthedocs.org)
 [General documentation and demos](http://robotframework.org/#documentation)
+
+<br>
 
 Support and contact
 -------------------
@@ -106,6 +118,8 @@ Support and contact
 [IRC channel on freenode] @robotframework
 [Twitter](https://twitter.com/robotframework)
 [Other forums](http://robotframework.org/#support)
+
+<br>
 
 License
 -------
