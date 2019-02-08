@@ -1,11 +1,6 @@
-Robot Framework
-===============
+## Robot Framework
 
-.. contents::
-   :local:
-
-Introduction
-------------
+### Introduction
 
 [Robot Framework](http://robotframework.org) is a generic open source
 automation framework for acceptance testing, acceptance test driven
@@ -22,13 +17,11 @@ libraries and tools that are developed as separate projects. For more
 information about Robot Framework and the ecosystem, see
 http://robotframework.org.
 
-Robot Framework project is hosted on GitHub_ where you can find source code,
-an issue tracker, and some further documentation. See `<CONTRIBUTING.rst>`__
-if you are interested to contribute. Downloads are hosted on PyPI_, except
-for the standalone JAR distribution that is on `Maven central`_.
+Robot Framework project is hosted on GitHub where you can find source code,
+an issue tracker, and some further documentation. Downloads are hosted on PyPI, except
+for the standalone JAR distribution that is on Maven central.
 
-Robot Framework development is sponsored by `Robot Framework Foundation
-<http://robotframework.org/foundation>`_.
+Robot Framework development is sponsored by [Robot Framework Foundation](http://robotframework.org/foundation).
 
 .. _GitHub: https://github.com/robotframework/robotframework
 .. _PyPI: https://pypi.python.org/pypi/robotframework
