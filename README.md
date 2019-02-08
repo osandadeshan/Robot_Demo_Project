@@ -25,15 +25,15 @@ for the standalone JAR distribution that is on Maven central.
 
 Robot Framework development is sponsored by [Robot Framework Foundation](http://robotframework.org/foundation).
 
-[GitHub](https://github.com/robotframework/robotframework)
-[PyPI](https://pypi.python.org/pypi/robotframework)
-[Maven central](http://search.maven.org/#search%7Cga%7C1%7Ca%3Arobotframework)
+[GitHub](https://github.com/robotframework/robotframework) \
+[PyPI](https://pypi.python.org/pypi/robotframework) \
+[Maven central](http://search.maven.org/#search%7Cga%7C1%7Ca%3Arobotframework) \
 
-[image](https://img.shields.io/pypi/v/robotframework.svg?label=version)
-[target](https://pypi.python.org/pypi/robotframework)
+[image](https://img.shields.io/pypi/v/robotframework.svg?label=version) \
+[target](https://pypi.python.org/pypi/robotframework) \
 
-[image](https://img.shields.io/pypi/l/robotframework.svg)
-[target](http://www.apache.org/licenses/LICENSE-2.0.html)
+[image](https://img.shields.io/pypi/l/robotframework.svg) \
+[target](http://www.apache.org/licenses/LICENSE-2.0.html) \
 
 <br>
 
@@ -43,11 +43,17 @@ Robot Framework development is sponsored by [Robot Framework Foundation](http://
 2. Add the Python installation directory to the **PATH** variable.
 3. Add **Scripts** folder inside the **Python** installation directory into the **PATH** variable.
 4. Install wxPython.\
-***pip install wxPython***
+
+    pip install wxPython
+    
 5. Install Robot Framework.\
-***pip install --upgrade robotframework***
+
+    pip install --upgrade robotframework
+    
 6. Install Selenium Library.\
-***pip install --upgrade robotframework-seleniumlibrary***
+
+    pip install --upgrade robotframework-seleniumlibrary
+    
 7. Download [RED](https://github.com/nokia/RED/releases/download/0.8.7/RED_0.8.7.20180807062944-win32.win32.x86_64.zip "RED").
 8. Download [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads "chromedriver").
 9. Copy and paste the **chromedriver** to the **Scripts** folder inside the **Python** installation directory.\
@@ -108,9 +114,8 @@ line usage. For a complete reference manual see `Robot Framework User Guide`.
 ## Support and contact
 
 [robotframework-users](https://groups.google.com/group/robotframework-users/) \
-[mailing list] [Slack](https://robotframework-slack-invite.herokuapp.com) \ 
+[Slack](https://robotframework-slack-invite.herokuapp.com) \ 
 [community robotframework](http://webchat.freenode.net/?channels=robotframework&prompt=1) \
-[IRC channel on freenode] @robotframework \
 [Twitter](https://twitter.com/robotframework) \
 [Other forums](http://robotframework.org/#support)
 
@@ -122,5 +127,5 @@ Robot Framework is open source software provided under the `Apache License 2.0`.
 Robot Framework documentation and other similar content use the `Creative Commons Attribution 3.0 Unported` license.  \
 Most libraries and tools in the ecosystem are also open source, but they may use different licenses.
 
-http://apache.org/licenses/LICENSE-2.0
+http://apache.org/licenses/LICENSE-2.0  \
 http://creativecommons.org/licenses/by/3.0
